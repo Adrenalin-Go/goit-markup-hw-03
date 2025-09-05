@@ -240,13 +240,14 @@ img {
 
 /* -----------SECTIONS------ ( 4 )------ */
 
-.portfolio .container {
+.portfolio {
   background-color: #fff;
-  padding-top: 120px;
-  padding-bottom: 120px;
-  border-top: none;
+  padding: 120px 0 120px 0;
 }
 
+.portfolio .container {
+  border-top: none;
+}
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
