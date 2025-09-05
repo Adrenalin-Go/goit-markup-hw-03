@@ -30,7 +30,6 @@ img {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
-  border-top: none;
 }
 
 /* ----------HEADER---------- */
@@ -241,10 +240,11 @@ img {
 
 /* -----------SECTIONS------ ( 4 )------ */
 
-.portfolio {
+.portfolio .container {
   background-color: #fff;
   padding-top: 120px;
   padding-bottom: 120px;
+  border-top: none;
 }
 
 .portfolio-title {
